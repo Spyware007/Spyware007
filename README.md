@@ -39,13 +39,12 @@
                                                                                                                                                       
 ---                                                                                                                                                     
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spyware007&show_icons=true&theme=radical&count_private=true&hide=starslocale=en&layout=compact" alt="Spyware007" /></p>
 ---
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spyware007&show_icons=true&theme=radical&count_private=true&hide=starslocale=en" alt="Spyware007" /></p>
----
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007&" alt="Spyware007" /></p>
 <br>
----                                                                                                                               
+                                                                                                                             
 <!--
 **Spyware007/Spyware007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
