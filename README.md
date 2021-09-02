@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="omgawande.png">
+<img src="omgawande.png" width='250'>
 <!--
 **Spyware007/Spyware007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
