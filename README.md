@@ -41,7 +41,7 @@
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spyware007&show_icons=true&theme=radical&count_private=true&hide=starslocale=en" alt="Spyware007" /></p>
 <br>
----
+
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007&" alt="Spyware007" /></p>
 <br>
