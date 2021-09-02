@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [OM Gawande](https://github.com/Spyware007)!
 ---
-<img src="img/omgawande.png" width='2500'>
----
+<img src="img/omgawande.png" width='2500'>---
+
 ### Most Used Languages 💻
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyware007&layout=compact&theme=midnight-purple)](https://github.com/Spyware007)
@@ -35,7 +35,7 @@
 </a>  
 
 </div>
----                                                                                                                                                   
+                                                                                                                                                      ---                                                                                                                                                   
 <!--
 **Spyware007/Spyware007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
