@@ -1,12 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [OM Gawande](https://github.com/Spyware007)!
+---
 <img src="img/omgawande.png" width='2500'>
+---
 ### Most Used Languages 💻
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyware007&layout=compact&theme=midnight-purple)](https://github.com/Spyware007)
 
-
+---
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
-
+---
 <div align="center">
  <a href="https://www.linkedin.com/in/om-gawande/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
@@ -32,7 +34,8 @@
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Charu Facebook style="margin-bottom: 5px;" />
 </a>  
 
-</div>  
+</div>
+---                                                                                                                                                   
 <!--
 **Spyware007/Spyware007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
