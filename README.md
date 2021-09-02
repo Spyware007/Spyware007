@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [OM Gawande](https://github.com/Spyware007)!
+![Profile views](https://gpvc.arturio.dev/Spyware007)
 ---
 <img src="img/omgawande.png" width='2500'>
 
