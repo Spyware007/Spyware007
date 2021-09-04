@@ -40,12 +40,14 @@
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Charu Facebook style="margin-bottom: 5px;" />
 </a>  
 
-</div>                                                                                                                                                    
+</div>
+                                                                                                                                                      
 ---                                                                                                                                                     
 |<img src="https://github-readme-stats.vercel.app/api?username=Spyware007&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007"/>|
-|---|---|---
+|---|---|
 ---
 Leave a ⭐ from [here](https://github.com/Spyware007/Spyware007) if you like 😁
+
 <!--
 **Spyware007/Spyware007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
