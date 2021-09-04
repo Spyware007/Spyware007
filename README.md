@@ -1,8 +1,6 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[OM GAWANDE](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
 ---
-![Snake Graph](https://github.com/Spyware007/Spyware007/blob/master/Snake_Game.svg)
-
 <img src="img/omgawande.png" width='2500'>
 
 <p align="center">
@@ -42,14 +40,12 @@
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Charu Facebook style="margin-bottom: 5px;" />
 </a>  
 
-</div>
-  ![Snake Graph](https://github.com/Spyware007/Spyware007/blob/master/Snake_Game.svg)
-                                                                                                                                                    
+</div>                                                                                                                                                    
 ---                                                                                                                                                     
 |<img src="https://github-readme-stats.vercel.app/api?username=Spyware007&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007"/>|
 |---|---|
 ---
-![Snake Graph](https://github.com/Spyware007/Spyware007/blob/master/Snake_Game.svg)
+![Snake Graph](https://github.com/Spyware007/Spyware007/master/Snake_Game.svg)
 ---
 Leave a ⭐ from [here](https://github.com/Spyware007/Spyware007) if you like 😁
 <!--
