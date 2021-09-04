@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [OM Gawande](https://github.com/Spyware007)!
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[OM GAWANDE](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
 ---
 <img src="img/omgawande.png" width='2500'>
@@ -7,7 +7,7 @@
   <a href="https://github.com/Spyware007/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Graphics%20Designer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff00ff&vCenter=true&size=22"></a>
 </p>
 
-
+[![Badge](https://cp-logo.vercel.app/codechef/death_dealer_7)](https://www.codechef.com/users/death_dealer_7)
 ### Most Used Languages 💻
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyware007&layout=compact&theme=midnight-purple)](https://github.com/Spyware007)
@@ -46,7 +46,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=Spyware007&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007"/>|
 |---|---|
 
-                                                                                                                             
+  ![Snake Graph](https://github.com/Spyware007/Spyware007/blob/master/github-user-contribution.svg)                                                                                                                           
 <!--
 **Spyware007/Spyware007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
