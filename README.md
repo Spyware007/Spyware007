@@ -14,7 +14,7 @@
 <br />
   <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Full Stack Developer soon...<br />
   <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">Not like the rest of them<br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random?<br />
+  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/om-gawande/) ! <br />
 
 
 [![Badge](https://cp-logo.vercel.app/codechef/death_dealer_7)](https://www.codechef.com/users/death_dealer_7)
