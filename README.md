@@ -37,8 +37,8 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Spyware007 twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:omngawande8888695399@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Spyware007 gmail style="margin-bottom: 5px;" />
+<a href="mailto:rohanhasabe8@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/_s_p_i_d_e_r_9480/" target="_blank">
