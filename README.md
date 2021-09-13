@@ -58,6 +58,7 @@
 
 ![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution.svg)
 
+---
 ```javascript
 
 if (isAwesome) {
@@ -66,7 +67,7 @@ if (isAwesome) {
 }
 
 ```
-
+---
 <!--
 **Spyware007/Spyware007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
