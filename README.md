@@ -24,7 +24,7 @@
 ---
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 ---
-<img src="img/OM-Linkedin.png" width='500' height='300'>
+<img src="img/OM-Linkedin.png" width='500' height='400'>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/om-gawande/" target="_blank">
