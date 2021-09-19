@@ -24,6 +24,8 @@
 ---
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 ---
+<img src="img/OM-Linkedin.png" width='500' height='300'>
+
 <div align="center">
  <a href="https://www.linkedin.com/in/om-gawande/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
