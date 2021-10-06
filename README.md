@@ -60,7 +60,8 @@
 
 ![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution%20(1).svg)
 
-![Motion Svg](https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg)
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
+
 ---
 ```javascript
 
@@ -68,7 +69,6 @@ if (isAwesome) {
     // thanks in advance :p
     starThisRepository();
 }
-
 ```
 ---
 
