@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
 
 <img src="img/omgawande.png" width='2500'>
----
+
 <p align="center">
   <a href="https://github.com/Spyware007/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Graphics%20Designer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=800080&vCenter=true&size=22"></a>
 </p>
