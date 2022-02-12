@@ -1,4 +1,4 @@
-# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[OM N. GAWANDE](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[OM GAWANDE](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
 
