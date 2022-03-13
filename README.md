@@ -12,7 +12,7 @@
   <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Om Gawande, currently pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
   <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">I love **competitive programming**. I am a **3-star⭐️** coder at Codechef.
 <br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Full Stack Developer soon...<br />
+  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Full Stack Developer!<br />
   <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">Not like the rest of them<br />
   <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/om-gawande/) ! <br />
 
