@@ -1,4 +1,5 @@
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[OM GAWANDE](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[OM N. GAWANDE](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
 
 <img src="img/omgawande.png" width='2500'>
@@ -9,14 +10,15 @@
 
 # About Me 🚀
 
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Om Gawande, currently pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">I love **competitive programming**. I am a **3-star⭐️** coder at Codechef.
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Om Gawande, currently pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">I love **competitive programming**. I am a **3-star⭐️** coder at Codechef.
 <br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Full Stack Developer!<br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">Not like the rest of them<br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/om-gawande/) ! <br />
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Full Stack Developer!<br />
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">Not like the rest of them<br />
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/om-gawande/) ! <br />
 
 ## Skills
+
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
@@ -36,12 +38,14 @@
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-
 ## Most Used Languages 💻
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyware007&layout=compact&theme=midnight-purple)](https://github.com/Spyware007)
 
 ---
+
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+
 ---
 
 <div align="center">
@@ -67,7 +71,7 @@
                                                                                                                                                  
 <a href="https://www.facebook.com/om.gawande.79274" target="_blank">
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Charu Facebook style="margin-bottom: 5px;" />
-</a>  
+</a>
 
 </div>
                                                                                                                                                       
@@ -81,15 +85,14 @@
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
 
 ---
-```javascript
 
+```javascript
 if (isAwesome) {
-    // thanks in advance :p
-    starThisRepository();
+  // thanks in advance :p
+  starThisRepository();
 }
 ```
+
 ---
 
 Leave a ⭐ from [here](https://github.com/Spyware007/Spyware007) if you like 😁
-
-
