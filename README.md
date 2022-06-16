@@ -17,7 +17,9 @@
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">Not like the rest of them<br />
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/om-gawande/) ! <br />
 
-##### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="22px">
+---
+
+# Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="22px">
 
 ---
 
@@ -50,7 +52,7 @@
 
 ---
 
-##### Web Tech Stack 🕸
+# Web Tech Stack 🕸
 
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -73,7 +75,7 @@
 
 ---
 
-##### Languages
+# Languages
 
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -82,6 +84,8 @@
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
+
+---
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Spyware007&&show_icons=true&count_private=true&include_all_commits=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007"/> |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
