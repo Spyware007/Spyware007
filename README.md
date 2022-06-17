@@ -106,6 +106,11 @@
 
 ---
 
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007&theme=dark" alt="Spyware007" /></p>
+  </div>
+  ---
+
 ![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution.svg)
 
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
