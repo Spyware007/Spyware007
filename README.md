@@ -21,8 +21,6 @@
 
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="22px">
 
----
-
 <div align="center">
  <a href="https://www.linkedin.com/in/om-gawande/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
@@ -75,11 +73,11 @@
 
 ---
 
-# Languages
+# Languages 🤟
 
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -87,8 +85,24 @@
 
 ---
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Spyware007&&show_icons=true&count_private=true&include_all_commits=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007"/> |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+# Databases 📚
+
+<div align="left">
+  <!-- <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <!-- <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
+  <!-- <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
+</div>
+
+---
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Spyware007&show_icons=true&theme=dark&locale=en" alt="Spyware007" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spyware007&show_icons=true&theme=dark&locale=en&layout=compact" alt="Spyware007" /></td>
+  </tr>
+</table>
 
 ---
 
