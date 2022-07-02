@@ -1,3 +1,5 @@
+[![GitHub Follow](https://img.shields.io/github/followers/spyware007?style=social&logo=github)](https://github.com/spyware007)
+
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[OM GAWANDE](https://github.com/Spyware007) <img src="./img/wave.gif" width="30px" height="30px" />
 
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
