@@ -152,3 +152,7 @@ if (isAwesome) {
 ---
 
 Leave a ⭐ from [here](https://github.com/Spyware007/Spyware007) if you like 😁
+
+I tweet sometimes
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/oom_gawande?style=social&logo=twitter)](https://twitter.com/oom_gawande)
