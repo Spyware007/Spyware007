@@ -1,4 +1,4 @@
-# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[OM GAWANDE](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[OM GAWANDE](https://github.com/Spyware007) <img src="./img/wave.gif" width="30px" height="30px" />
 
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
 
@@ -8,7 +8,7 @@
   <a href="https://github.com/Spyware007/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Graphics%20Designer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=800080&vCenter=true&size=22"></a>
 </p>
 
-# About Me 🚀
+# About Me <img src="./img/about.gif" height="48px">
 
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Om Gawande, currently pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">I love **competitive programming**. I am a **3-star⭐️** coder at Codechef.
@@ -19,7 +19,7 @@
 
 ---
 
-# Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="22px">
+# Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 
 <div align="center">
  <a href="https://www.linkedin.com/in/om-gawande/" target="_blank">
@@ -50,7 +50,7 @@
 
 ---
 
-# Web Tech Stack 🕸
+# Web Tech Stack <img src="./img/web.gif" height="38px">
 
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -74,7 +74,7 @@
 
 ---
 
-# Languages 🤟
+# Languages <img src="./img/language.gif" height="44px">
 
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -86,7 +86,7 @@
 
 ---
 
-# Databases 📚
+# Databases <img src="./img/database.gif" height="38px">
 
 <div align="left">
   <!-- <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
@@ -98,7 +98,7 @@
 
 ---
 
-# Hosting 🎯
+# Hosting <img src="./img/rocket.gif" height="38px">
 
 <div align="left">
   <!-- <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
