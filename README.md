@@ -98,7 +98,7 @@
 
 ---
 
-# Hosting <img src="./img/rocket.gif" height="38px">
+# Hosting <img src="./img/rocket.gif" height="48px">
 
 <div align="left">
   <!-- <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
