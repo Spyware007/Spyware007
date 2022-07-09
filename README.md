@@ -113,8 +113,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Spyware007&show_icons=true&theme=dark&locale=en" alt="Spyware007" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spyware007&show_icons=true&theme=dark&locale=en&layout=compact" alt="Spyware007" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Spyware007&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="Spyware007" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spyware007&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="Spyware007" /></td>
   </tr>
 </table>
 
