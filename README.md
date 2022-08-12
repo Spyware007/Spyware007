@@ -12,7 +12,7 @@
 
 # About Me <img src="./img/about.gif" height="48px">
 
-<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Om Gawande, currently pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Om Gawande, currently in 3rd year pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">I love **competitive programming**. I am a **3-star⭐️** coder at Codechef.
 <br />
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Full Stack Developer!<br />
