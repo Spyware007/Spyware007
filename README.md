@@ -36,6 +36,8 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Spyware007 twitter style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://spyware.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt=Spyware hashnode style="margin-bottom:5px;"></a>
+
 <a href="mailto:rohanhasabe8@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
