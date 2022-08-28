@@ -128,7 +128,12 @@
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-
+<p align="left">
+<a href="https://spyware.hashnode.dev//flipverse" title="Flipverse - The Journey of Flipkart Grid Challenge  🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661639861531/CoCVe0Or7.png" alt="Flipverse - The Journey of Flipkart Grid Challenge  🚀" width="250px" align="left" /></a>
+<a href="https://spyware.hashnode.dev//flipverse" title="Flipverse - The Journey of Flipkart Grid Challenge  🚀"><strong>Flipverse - The Journey of Flipkart Grid Challenge  🚀</strong></a>
+<div><strong>28 Aug 2022</strong></div>
+<br/> It was just a normal day when I got a message from Dhruv Kothari on Super 30 (our small community) of Web Dev saying "Guys team banao and aag lagao 🔥" with a registration link for Flipkart Grid 4.0 Hackathon.
+I didn't have any such motivation to par... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
