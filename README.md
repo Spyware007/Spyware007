@@ -125,6 +125,10 @@
 
 ---
 
+<!--START_SECTION:activity-->
+
+---
+
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
