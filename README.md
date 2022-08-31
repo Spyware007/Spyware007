@@ -141,7 +141,17 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://spyware.hashnode.dev//flipverse" title="Flipverse - The Journey of Flipkart Grid Challenge  🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661639861531/CoCVe0Or7.png" alt="Flipverse - The Journey of Flipkart Grid Challenge  🚀" width="250px" align="left" /></a>
+<a href="https://spyware.hashnode.dev//gdscwebspecialist" title="How did I become a GDSC WEB Specialist(Lead)? 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661814899776/G3BPyKy5j.png" alt="How did I become a GDSC WEB Specialist(Lead)? 🚀" width="250px" align="left" /></a>
+<a href="https://spyware.hashnode.dev//gdscwebspecialist" title="How did I become a GDSC WEB Specialist(Lead)? 🚀"><strong>How did I become a GDSC WEB Specialist(Lead)? 🚀</strong></a>
+<div><strong>30 Aug 2022</strong></div>
+<br/> Let's start. 🚀
+It all started with the name SPIDER. 🕸
+I like when people call me by that name.
+
+Backstory. 🔙
+At first, I didn't have any idea what I was doing after I bought a MacBook Air ( except showoff ). Later I figured out about Competitive P... </p> <br/> <br/>
+<p align="left">
+<a href="https://spyware.hashnode.dev//flipverse" title="Flipverse - The Journey of Flipkart Grid Challenge  🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661639861531/CoCVe0Or7.png" alt="Flipverse - The Journey of Flipkart Grid Challenge  🚀" width="250px" align="right" /></a>
 <a href="https://spyware.hashnode.dev//flipverse" title="Flipverse - The Journey of Flipkart Grid Challenge  🚀"><strong>Flipverse - The Journey of Flipkart Grid Challenge  🚀</strong></a>
 <div><strong>28 Aug 2022</strong></div>
 <br/> It was just a normal day when I got a message from Dhruv Kothari on Super 30 (our small community) of Web Dev saying "Guys team banao and aag lagao 🔥" with a registration link for Flipkart Grid 4.0 Hackathon.
