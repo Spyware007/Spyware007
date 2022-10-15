@@ -130,9 +130,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Spyware007/Animating-Buttons/issues/1) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
 2. 🗣 Commented on [#1](https://github.com/Spyware007/Animating-Buttons/issues/1) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-3. 🎉 Merged PR [#2](https://github.com/Spyware007/Animating-Buttons/pull/2) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-4. ❗️ Opened issue [#1](https://github.com/Spyware007/Animating-Buttons/issues/1) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-5. 💪 Opened PR [#2](https://github.com/Swanand01/streaminal-tv/pull/2) in [Swanand01/streaminal-tv](https://github.com/Swanand01/streaminal-tv)
+3. 🗣 Commented on [#1](https://github.com/Spyware007/Animating-Buttons/issues/1) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+4. 🎉 Merged PR [#2](https://github.com/Spyware007/Animating-Buttons/pull/2) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+5. ❗️ Opened issue [#1](https://github.com/Spyware007/Animating-Buttons/issues/1) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
 <!--END_SECTION:activity-->
 
 ---
