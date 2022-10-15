@@ -128,10 +128,10 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Swanand01/streaminal-tv/pull/2) in [Swanand01/streaminal-tv](https://github.com/Swanand01/streaminal-tv)
-2. 💪 Opened PR [#1](https://github.com/Swanand01/streaminal-tv/pull/1) in [Swanand01/streaminal-tv](https://github.com/Swanand01/streaminal-tv)
-3. 🎉 Merged PR [#24](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL/pull/24) in [Spyware007/CPMC-DYPCOE-OFFICIAL](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL)
-4. 🎉 Merged PR [#23](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL/pull/23) in [Spyware007/CPMC-DYPCOE-OFFICIAL](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL)
+1. ❗️ Opened issue [#1](https://github.com/Spyware007/Animating-Buttons/issues/1) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+2. 💪 Opened PR [#2](https://github.com/Swanand01/streaminal-tv/pull/2) in [Swanand01/streaminal-tv](https://github.com/Swanand01/streaminal-tv)
+3. 💪 Opened PR [#1](https://github.com/Swanand01/streaminal-tv/pull/1) in [Swanand01/streaminal-tv](https://github.com/Swanand01/streaminal-tv)
+4. 🎉 Merged PR [#24](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL/pull/24) in [Spyware007/CPMC-DYPCOE-OFFICIAL](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL)
 5. 🗣 Commented on [#22](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL/issues/22) in [Spyware007/CPMC-DYPCOE-OFFICIAL](https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL)
 <!--END_SECTION:activity-->
 
