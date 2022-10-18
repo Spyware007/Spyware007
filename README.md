@@ -128,11 +128,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Palash2911/Rempo/pull/7) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-2. 💪 Opened PR [#7](https://github.com/Palash2911/Rempo/pull/7) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-3. ❗️ Closed issue [#57](https://github.com/Spyware007/Animating-Buttons/issues/57) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-4. ❌ Closed PR [#78](https://github.com/Spyware007/Animating-Buttons/pull/78) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-5. 🗣 Commented on [#78](https://github.com/Spyware007/Animating-Buttons/issues/78) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+1. 🎉 Merged PR [#8](https://github.com/Palash2911/Rempo/pull/8) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+2. 💪 Opened PR [#8](https://github.com/Palash2911/Rempo/pull/8) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+3. 🎉 Merged PR [#7](https://github.com/Palash2911/Rempo/pull/7) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+4. 💪 Opened PR [#7](https://github.com/Palash2911/Rempo/pull/7) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+5. ❗️ Closed issue [#57](https://github.com/Spyware007/Animating-Buttons/issues/57) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
 <!--END_SECTION:activity-->
 
 ---
