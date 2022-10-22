@@ -4,7 +4,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/Spyware007)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="img/Spider.png" width='2500'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
   <a href="https://github.com/Spyware007/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Graphics%20Designer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=800080&vCenter=true&size=22"></a>
@@ -19,7 +21,7 @@
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">Not like the rest of them<br />
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/om-gawande/) ! <br />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 
@@ -123,7 +125,7 @@
  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### My recent GitHub activity ⚡️
 
@@ -135,7 +137,7 @@
 5. 🗣 Commented on [#145](https://github.com/Spyware007/Animating-Buttons/issues/145) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
 <!--END_SECTION:activity-->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## My Latest Blog Posts 👇
 
@@ -158,22 +160,22 @@ At first, I didn't have any idea what I was doing after I bought a MacBook Air (
 I didn't have any such motivation to par... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Spyware007&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="Spyware007" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spyware007&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="Spyware007" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007&theme=dark" alt="Spyware007" /></td>
   </tr>
 </table>
 
 ---
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007&theme=dark" alt="Spyware007" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spyware007&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="Spyware007" /></p>
   </div>
   
-  ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution.svg)
 
