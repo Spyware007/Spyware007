@@ -130,11 +130,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Palash2911/Rempo/pull/14) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-2. 💪 Opened PR [#14](https://github.com/Palash2911/Rempo/pull/14) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-3. 🎉 Merged PR [#13](https://github.com/Palash2911/Rempo/pull/13) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-4. 💪 Opened PR [#13](https://github.com/Palash2911/Rempo/pull/13) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-5. ❗️ Opened issue [#3](https://github.com/Swanand01/streaminal-tv/issues/3) in [Swanand01/streaminal-tv](https://github.com/Swanand01/streaminal-tv)
+1. 🗣 Commented on [#66](https://github.com/Spyware007/FlipVerse/issues/66) in [Spyware007/FlipVerse](https://github.com/Spyware007/FlipVerse)
+2. 🎉 Merged PR [#14](https://github.com/Palash2911/Rempo/pull/14) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+3. 💪 Opened PR [#14](https://github.com/Palash2911/Rempo/pull/14) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+4. 🎉 Merged PR [#13](https://github.com/Palash2911/Rempo/pull/13) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+5. 💪 Opened PR [#13](https://github.com/Palash2911/Rempo/pull/13) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
