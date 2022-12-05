@@ -130,11 +130,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Palash2911/Rempo/pull/15) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-2. 💪 Opened PR [#15](https://github.com/Palash2911/Rempo/pull/15) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-3. 🗣 Commented on [#66](https://github.com/Spyware007/FlipVerse/issues/66) in [Spyware007/FlipVerse](https://github.com/Spyware007/FlipVerse)
-4. 🎉 Merged PR [#14](https://github.com/Palash2911/Rempo/pull/14) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-5. 💪 Opened PR [#14](https://github.com/Palash2911/Rempo/pull/14) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+1. 🎉 Merged PR [#16](https://github.com/Palash2911/Rempo/pull/16) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+2. 💪 Opened PR [#16](https://github.com/Palash2911/Rempo/pull/16) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+3. 🎉 Merged PR [#15](https://github.com/Palash2911/Rempo/pull/15) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+4. 💪 Opened PR [#15](https://github.com/Palash2911/Rempo/pull/15) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+5. 🗣 Commented on [#66](https://github.com/Spyware007/FlipVerse/issues/66) in [Spyware007/FlipVerse](https://github.com/Spyware007/FlipVerse)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
