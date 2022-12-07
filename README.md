@@ -130,11 +130,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Palash2911/Rempo/pull/18) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-2. 💪 Opened PR [#18](https://github.com/Palash2911/Rempo/pull/18) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-3. 🎉 Merged PR [#17](https://github.com/Palash2911/Rempo/pull/17) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-4. 💪 Opened PR [#17](https://github.com/Palash2911/Rempo/pull/17) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-5. 🎉 Merged PR [#16](https://github.com/Palash2911/Rempo/pull/16) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+1. 💪 Opened PR [#19](https://github.com/Palash2911/Rempo/pull/19) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+2. 🎉 Merged PR [#18](https://github.com/Palash2911/Rempo/pull/18) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+3. 💪 Opened PR [#18](https://github.com/Palash2911/Rempo/pull/18) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+4. 🎉 Merged PR [#17](https://github.com/Palash2911/Rempo/pull/17) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+5. 💪 Opened PR [#17](https://github.com/Palash2911/Rempo/pull/17) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
