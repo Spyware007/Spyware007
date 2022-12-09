@@ -130,11 +130,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-2. 💪 Opened PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-3. 🎉 Merged PR [#20](https://github.com/Palash2911/Rempo/pull/20) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-4. 💪 Opened PR [#20](https://github.com/Palash2911/Rempo/pull/20) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-5. 🗣 Commented on [#4](https://github.com/Swanand01/streaminal-tv/issues/4) in [Swanand01/streaminal-tv](https://github.com/Swanand01/streaminal-tv)
+1. 🎉 Merged PR [#22](https://github.com/Palash2911/Rempo/pull/22) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+2. 💪 Opened PR [#22](https://github.com/Palash2911/Rempo/pull/22) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+3. 🎉 Merged PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+4. 💪 Opened PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+5. 🎉 Merged PR [#20](https://github.com/Palash2911/Rempo/pull/20) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
