@@ -130,11 +130,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Palash2911/Rempo/pull/22) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-2. 💪 Opened PR [#22](https://github.com/Palash2911/Rempo/pull/22) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-3. 🎉 Merged PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-4. 💪 Opened PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
-5. 🎉 Merged PR [#20](https://github.com/Palash2911/Rempo/pull/20) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+1. 💪 Opened PR [#1](https://github.com/25Vaishnavibarge17/Quiz-App/pull/1) in [25Vaishnavibarge17/Quiz-App](https://github.com/25Vaishnavibarge17/Quiz-App)
+2. 🎉 Merged PR [#22](https://github.com/Palash2911/Rempo/pull/22) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+3. 💪 Opened PR [#22](https://github.com/Palash2911/Rempo/pull/22) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+4. 🎉 Merged PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
+5. 💪 Opened PR [#21](https://github.com/Palash2911/Rempo/pull/21) in [Palash2911/Rempo](https://github.com/Palash2911/Rempo)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
