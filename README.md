@@ -12,6 +12,41 @@
   <a href="https://github.com/Spyware007/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Graphics%20Designer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=800080&vCenter=true&size=22"></a>
 </p>
 
+🌟 STAR THE REPOS IF YOU LIKE 🌟
+
+	
+	
+</br>
+	
+  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
+
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/spyware007/Animating-Buttons"><b>🚀 Animating Buttons</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/spyware007/Animating-Buttons?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/spyware007/Animating-Buttons?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/spyware007/Animating-Buttons?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/spyware007/Animating-Buttons?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/spyware007/Animating-Buttons?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+
+<br/>  
+
 # About Me <img src="./img/about.gif" height="48px">
 
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Om Gawande, currently in 3rd year pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
