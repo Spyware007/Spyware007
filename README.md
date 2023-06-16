@@ -168,10 +168,10 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
-2. ❗ Opened issue [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
-3. 🔒 Closed issue [#1](https://github.com/Spyware007/Spyware007/issues/1) in [Spyware007/Spyware007](https://github.com/Spyware007/Spyware007)
-4. 🗣 Commented on [#90](https://github.com/GrabBits/GrabBits_Website/issues/90) in [GrabBits/GrabBits_Website](https://github.com/GrabBits/GrabBits_Website)
+1. 🎉 Merged PR [#1298](https://github.com/Spyware007/Animating-Buttons/pull/1298) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+2. 🗣 Commented on [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
+3. ❗ Opened issue [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
+4. 🔒 Closed issue [#1](https://github.com/Spyware007/Spyware007/issues/1) in [Spyware007/Spyware007](https://github.com/Spyware007/Spyware007)
 5. 🗣 Commented on [#90](https://github.com/GrabBits/GrabBits_Website/issues/90) in [GrabBits/GrabBits_Website](https://github.com/GrabBits/GrabBits_Website)
 <!--END_SECTION:activity-->
 
