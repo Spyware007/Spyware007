@@ -168,11 +168,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1248](https://github.com/Spyware007/Animating-Buttons/issues/1248) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-2. 🎉 Merged PR [#1298](https://github.com/Spyware007/Animating-Buttons/pull/1298) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-3. 🗣 Commented on [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
-4. ❗ Opened issue [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
-5. 🔒 Closed issue [#1](https://github.com/Spyware007/Spyware007/issues/1) in [Spyware007/Spyware007](https://github.com/Spyware007/Spyware007)
+1. 🎉 Merged PR [#1304](https://github.com/Spyware007/Animating-Buttons/pull/1304) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+2. 🗣 Commented on [#1248](https://github.com/Spyware007/Animating-Buttons/issues/1248) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+3. 🎉 Merged PR [#1298](https://github.com/Spyware007/Animating-Buttons/pull/1298) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+4. 🗣 Commented on [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
+5. ❗ Opened issue [#2](https://github.com/IKGame/Rize/issues/2) in [IKGame/Rize](https://github.com/IKGame/Rize)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
