@@ -168,11 +168,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1672](https://github.com/Spyware007/Animating-Buttons/issues/1672) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-2. 🗣 Commented on [#1732](https://github.com/Spyware007/Animating-Buttons/issues/1732) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-3. 🗣 Commented on [#1706](https://github.com/Spyware007/Animating-Buttons/issues/1706) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-4. 🎉 Merged PR [#1727](https://github.com/Spyware007/Animating-Buttons/pull/1727) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
-5. 🗣 Commented on [#1724](https://github.com/Spyware007/Animating-Buttons/issues/1724) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+1. 🔒 Closed issue [#1732](https://github.com/Spyware007/Animating-Buttons/issues/1732) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+2. 🎉 Merged PR [#1733](https://github.com/Spyware007/Animating-Buttons/pull/1733) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+3. 🗣 Commented on [#1672](https://github.com/Spyware007/Animating-Buttons/issues/1672) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+4. 🗣 Commented on [#1732](https://github.com/Spyware007/Animating-Buttons/issues/1732) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+5. 🗣 Commented on [#1706](https://github.com/Spyware007/Animating-Buttons/issues/1706) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
