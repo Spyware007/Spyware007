@@ -2,7 +2,7 @@
 
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[OM GAWANDE](https://github.com/Spyware007) <img src="./img/wave.gif" width="30px" height="30px" />
 
-![Profile views](https://gpvc.arturio.dev/Spyware007)
+![Profile views](https://komarev.com/ghpvc/?username=Spyware007)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="img/Spider.png" width='2500'>
