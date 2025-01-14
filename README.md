@@ -203,7 +203,10 @@ I didn't have any such motivation to par... </p> <br/> <br/>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Spyware007&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="Spyware007" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyware007&theme=dark" alt="spyware007" /></td>
+    <td>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=spyware007&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+    </td>
   </tr>
 </table>
 
